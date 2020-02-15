@@ -1,0 +1,23 @@
+.btn-red {
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 15px;
+	color: rgb(160, 160, 160);
+}
+
+.btn-red:hover {
+	color: white;
+	transform: 0.3s;
+}
+
+.link-intext {
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	color: rgb(160, 160, 160);
+}
+
+.link-intext:hover {
+	color: #993726;
+	transform: 0.3s;
+}

@@ -1,0 +1,10 @@
+#middle-section {
+	background-image: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 900%), url(../../images/cj-background.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+
+#middle-section img {
+	margin: 0px;
+}
